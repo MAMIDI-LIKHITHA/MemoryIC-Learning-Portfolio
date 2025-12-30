@@ -1,5 +1,3 @@
-# MemoryIC-Learning-Portfolio
-A comprehensive repository for Memory IC design learning, including study roadmap, resources, and hands-on projects for SRAM, DRAM, and sense amplifiers.
 # Memory IC Learning & Project Portfolio
 
 Welcome to my **Memory IC Learning & Project Portfolio**!  
@@ -32,5 +30,5 @@ Glossary of terms, summarized notes, cheat sheets, and personal references.
 ---
 
 ## Contact
-- Email: your_email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: likhitha.m2020@gmail.com 
+- LinkedIn: [MAMIDI LIKHITHA](www.linkedin.com/in/mamidi-likhitha-a0b7721b0)
