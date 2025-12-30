@@ -1,0 +1,25 @@
+# Memory IC Syllabus & Roadmap
+
+This folder contains the **structured learning roadmap** for Memory IC design.
+
+## Phases
+
+1. **Phase 1: Core IC Fundamentals (1–2 months)**
+   - Digital IC design (CMOS, logic gates, flip-flops)
+   - Analog fundamentals (MOSFET, current mirrors, differential pairs)
+   - Tools: Verilog, SPICE simulations
+
+2. **Phase 2: Memory Fundamentals (2–3 months)**
+   - SRAM, DRAM architecture
+   - Layout basics
+   - Bitline/wordline drivers, sense amps
+
+3. **Phase 3: Advanced Design & Optimization (2–3 months)**
+   - Low-power & high-speed memory design
+   - Timing closure, parasitic extraction
+   - Automation with Python/TCL
+
+4. **Phase 4: Research Topics (2–3 months)**
+   - Emerging memories: MRAM, ReRAM, PCM
+   - Memory reliability, soft errors, retention
+   - Circuit-architecture co-design
