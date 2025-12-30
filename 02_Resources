@@ -1,0 +1,21 @@
+# Memory IC Resources
+
+This folder contains books, courses, tutorials, and papers for learning memory IC design.
+
+## Books
+- *Digital Integrated Circuits* – Jan M. Rabaey
+- *CMOS VLSI Design* – Weste & Harris
+- *Design of Analog CMOS Integrated Circuits* – Behzad Razavi
+
+## Online Courses
+- NPTEL: Digital & Analog VLSI Design
+- Coursera / Udemy: Verilog / SystemVerilog
+- Cadence tutorials: Virtuoso, SPICE simulation
+
+## Tutorials
+- HSPICE / Spectre simulation guides
+- Python/TCL automation for IC design
+
+## Research Papers
+- IEEE Transactions on VLSI
+- ISSCC / IEDM memory design papers
