@@ -1,7 +1,7 @@
 # Memory IC Learning & Project Portfolio
 
 Welcome to my **Memory IC Learning & Project Portfolio**!  
-This repository documents my learning roadmap, study materials, and hands-on projects for **Memory IC design**, aimed at preparation for **Micron GET / Memory IC PhD research roles**.
+This repository documents my learning roadmap, study materials, and hands-on projects for **Memory IC design**, aimed at preparation for **Memory IC PhD research roles**.
 
 ---
 
@@ -25,7 +25,7 @@ Glossary of terms, summarized notes, cheat sheets, and personal references.
 - Learn transistor-level and RTL-level memory design
 - Simulate and optimize SRAM, DRAM, and sense amplifiers
 - Build a strong foundation for research in memory ICs
-- Showcase practical skills for Micron GET / PhD applications
+- Showcase practical skills for PhD applications
 
 ---
 
