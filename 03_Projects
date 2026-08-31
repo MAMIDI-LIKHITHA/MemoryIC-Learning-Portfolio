@@ -1,1 +1,45 @@
-
+🔹 SRAM Projects
+6T SRAM Cell Design and Performance Analysis
+Low-Power 6T SRAM Cell Design
+8T SRAM Cell for Read Stability Improvement
+10T SRAM Cell for Low-Voltage Operation
+SRAM Cell Stability Analysis Using SNM
+Read and Write Assist Techniques for SRAM
+Low-Leakage SRAM Cell Design
+High-Speed SRAM Cell and Array Design
+SRAM Memory Array with Row and Column Decoders
+Monte Carlo Analysis of SRAM PVT Variations
+🔹 DRAM Projects
+1T1C DRAM Cell Design and Analysis
+Low-Power DRAM Cell Design
+DRAM Retention Time and Leakage Analysis
+DRAM Sense Amplifier Design
+DRAM Precharge and Equalization Circuit
+DRAM Row Decoder and Word-Line Driver Design
+DRAM Memory Array Design and Simulation
+🔹 Sense Amplifier Projects
+Voltage-Sense Amplifier Design for Memory Applications
+Current-Sense Amplifier for High-Speed Memory
+Latch-Type Sense Amplifier Design and Optimization
+Low-Power Differential Sense Amplifier
+Offset and Mismatch Analysis of Sense Amplifiers
+High-Speed Sense Amplifier for SRAM
+🔹 Memory Peripheral Circuits
+CMOS Row Decoder for SRAM
+Column Decoder and Column Multiplexer Design
+Precharge Circuit Design for SRAM
+Write Driver Circuit for SRAM
+Word-Line Driver Design for Memory Arrays
+Address Decoder Design for High-Density Memory
+Memory Timing and Control Circuit Design
+🔬 Advanced / PhD-Oriented Projects
+PVT Variation Analysis of SRAM Memory Cells
+Statistical Analysis of SRAM Cell Mismatch
+Energy-Delay Optimization of SRAM
+Ultra-Low-Voltage SRAM for Energy-Efficient Computing
+Near-Threshold SRAM Design and Stability Analysis
+FinFET-Based SRAM Cell Design and Analysis
+SRAM Design for Radiation-Tolerant Applications
+Assist-Technique-Based Low-Voltage SRAM
+Reliability Analysis of Advanced SRAM Cells
+Comparative Study of 6T, 8T, and 10T SRAM Cells
